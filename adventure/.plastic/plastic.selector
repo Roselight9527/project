@@ -1,0 +1,4 @@
+repository "two a adventure@ax1eeee@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
